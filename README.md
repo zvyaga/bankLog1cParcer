@@ -1,2 +1,2 @@
 # bankLog1cParcer
-Parcer for bank log file in 1c format
+Parcer for bank log file in 1c format. Простой парсер банковских выписок в формате 1с. Простой в смысле короткого кода по сравнению с опубликованными в инете.
